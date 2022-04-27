@@ -229,8 +229,8 @@ defaults:
       comments: true
   # _portfolio
   - scope:
-      path: /technical_communication
-      type: portfolio
+      path: ""
+      type: technical_communication
     values:
       layout: single
       author_profile: true
