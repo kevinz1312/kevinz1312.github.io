@@ -229,7 +229,7 @@ defaults:
       comments: true
   # _portfolio
   - scope:
-      path: ""
+      path: "technical_communication"
       type: portfolio
     values:
       layout: single
