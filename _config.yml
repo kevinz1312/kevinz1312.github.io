@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  technical_communication:
     output: true
     permalink: /:collection/:path/
   talks:
