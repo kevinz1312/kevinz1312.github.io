@@ -15,8 +15,8 @@ profiles are available to users to organize and edit hierarchical regions.
 <p align = "center">
 <img src = "/images/The_World_Data_Mapper_Preview.png" width = "700" height = "350" >
 </p>
-
-<a href="https://github.com/kevinz1312/TheWorldMapper" align = "center">
+<p align = "center">
+<a href="https://github.com/kevinz1312/TheWorldMapper">
 <button class="btn btn--inverse">View on Github</button>
-</a>
+</a></p>
 

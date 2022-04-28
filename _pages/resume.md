@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 {% include base_path %}
+<p align = "center">
+<a href="https://kevinz1312.github.io/files/Kevin_Zhou_Resume.pdf">
+<button class="btn btn--inverse">View Full Resume</button>
+</a></p>
 
 Education
 ======
