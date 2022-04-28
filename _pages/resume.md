@@ -6,10 +6,6 @@ author_profile: true
 ---
 
 {% include base_path %}
-<p align = "center">
-<a href="https://kevinz1312.github.io/files/Kevin_Zhou_Resume.pdf">
-<button class="btn btn--inverse">View Full Resume</button>
-</a></p>
 
 Education
 ======
@@ -52,3 +48,8 @@ Service and Leadership
   * Sept. 2019 - May 2020: Cabinet Member
     * Promoted upcoming Vietnamese cultural events on campus through various channels including social media, flyers, and emails.
     * Recruited over 50+ general body members to attend VSA events and participate in VSA activities.
+
+<p align = "center">
+<a href="https://kevinz1312.github.io/files/Kevin_Zhou_Resume.pdf">
+<button class="btn btn--inverse">View Full Resume</button>
+</a></p>
