@@ -7,7 +7,6 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kevin Zhou"
 title_separator          : "-"
 name                     : &name "Kevin Zhou"
 description              : &description "Aspiring Software Engineer"
@@ -172,7 +171,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
 # Collections
 collections:
   teaching:
@@ -238,7 +236,7 @@ defaults:
       author_profile: true
       share: false
       comment: false
-  # _portfolio
+  # _projects
   - scope:
       path: ""
       type: projects
