@@ -18,19 +18,19 @@ Education
 Experience
 ======
 * Expected May 2022 - Aug. 2022: Analyst for Global Security Intern
-  * MetLife
-  * Global Customer Service & Operations
+  * MetLife - Global Customer Service & Operations
   * Supervisor: Judy Piasecki
 
 * Jan. 2022 - May 2022: Undergraduate Teaching Assistant: Object Oriented Programming
-  * Stony Brook University
-  * College of Engineering and Applied Sciences
+  * Stony Brook University - College of Engineering and Applied Sciences
   * Supervisor: Professor Tripathi
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Languages:
+  * Java
+  * Python
+* Web Development
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
@@ -38,7 +38,7 @@ Skills
   
 Service and Leadership
 ======
-###Stony Brook University Vietnamese Student Association (VSA)
+Stony Brook University Vietnamese Student Association (VSA)
 * May 2021 - May 2022: Treasurer
   * Help oversee the coordination of all VSA cultural events, social programs, and fundraisers.
   * Maintain accurate and up-to-date financial records of revenues, profits, and expenses of the organization.
