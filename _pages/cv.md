@@ -28,14 +28,13 @@ Experience
 Skills
 ======
 * Languages:
-  * Java
-  * Python
-* Web Development
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-  
+  * Java, Python
+* Web Development: 
+  * HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS
+* Design:
+  * Figma, Canva
+  * Autodesk AutoCAD, Inventor, Revit
+
 Service and Leadership
 ======
 * Stony Brook University Vietnamese Student Association (VSA)
