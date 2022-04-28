@@ -7,14 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-Education
-======
+##Education
 * B.S. in Computer Science, Stony Brook University, Expected May 2023
   * Specialization in Cybersecurity
   * Minor in Technological System Management
 
-Experience
-======
+##Experience
 * May 2022 - Aug. 2022: Analyst for Global Security Intern
   * MetLife - Global Customer Service & Operations
   * Supervisor: Judy Piasecki
@@ -23,8 +21,7 @@ Experience
   * Stony Brook University - College of Engineering and Applied Sciences
   * Supervisor: Professor Tripathi
   
-Skills
-======
+##Skills
 * Languages:
   * Java, Python
 * Web Development: 
@@ -33,8 +30,7 @@ Skills
   * Figma, Canva
   * Autodesk AutoCAD, Inventor, Revit
 
-Service and Leadership
-======
+##Service and Leadership
 * Stony Brook University Vietnamese Student Association (VSA)
   * May 2021 - May 2022: Treasurer
     * Help oversee the coordination of all VSA cultural events, social programs, and fundraisers.
