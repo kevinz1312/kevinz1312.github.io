@@ -7,6 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
+title                    : "Kevin Zhou"
 title_separator          : "-"
 name                     : &name "Kevin Zhou"
 description              : &description "Aspiring Software Engineer"
