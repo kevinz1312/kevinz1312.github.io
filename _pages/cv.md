@@ -17,7 +17,7 @@ Education
 
 Experience
 ======
-* Expected May 2022 - Aug. 2022: Analyst for Global Security Intern
+* May 2022 - Aug. 2022: Analyst for Global Security Intern
   * MetLife - Global Customer Service & Operations
   * Supervisor: Judy Piasecki
 
