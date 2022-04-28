@@ -9,4 +9,9 @@ author_profile: true
 
 ## The World Data Mapper
 
-The World Data Mapper is a full stack web application for managing regional data around the world. Data can be organized hierarchially and allows the user to organize different regions. Subregions can be created and contained under a parent region. For example, "New York" and "California" can be created as subregions under the parent region "United States." Each region's name, capital, leader, and landmarks can be created and edited within the application.
+The World Data Mapper is a web application for organizing regional data hierarchically. Authenticated
+profiles are available to users to organize and edit hierarchical regions.
+
+<p align = "center">
+  <img src = "/images/The_World_Data_Mapper_Preview.png" width = "700" height = "350" >
+</p>
