@@ -1,22 +1,25 @@
 # main links links
 main:
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Technical Communication"
+    url: /technical_communication/
+
+  - title: "Resume"
+    url: /resume/
+
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Technical Communication"
-    url: /technical_communication/
-        
+    url: /teaching/
+
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "Resume"
-    url: /resume/
     
   - title: "Guide"
     url: /markdown/
